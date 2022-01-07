@@ -24,4 +24,7 @@ docker build -t pyopenwrt .
 # Run (to run a container locally )
 
 docker run -it pyopenwrt
+
+or
+
 docker run -it pyopenwrt /bin/bash
