@@ -11,6 +11,8 @@ This build does the following:
 - installs python3
 - installs pip
 - upgrades pip to latest
+- copies over requirements.txt ( python dependencies )
+- installs python dependencies from requirements.txt
 - installs bash
 - copies over a startup shell script
 - copies over a python startup file
